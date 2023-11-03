@@ -1,4 +1,4 @@
-package med.voll.api.medico;
+package med.voll.api.domian.medico;
 
 public record DadosListagemMedico(
   Long id,
